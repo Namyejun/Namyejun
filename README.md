@@ -40,13 +40,6 @@ DBA 경험을 바탕으로 <br/>
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Namyejun&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namyejun&layout=compact)
-
----
-
 ## 📫 Contact
 - Email: yejun1148@gmail.com
 - Blog: https://velog.io/@nam___yejun/posts
